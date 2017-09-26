@@ -16,7 +16,8 @@ namespace VideoMenuUI
         {
             "Action",
             "Kids",
-            "Sci-Fi"
+            "Sci-Fi",
+            "Comedy"
         };
 
         static void Main(string[] args)
