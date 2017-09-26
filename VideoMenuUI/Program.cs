@@ -39,11 +39,11 @@ namespace VideoMenuUI
 
             string[] menuItems =
             {
-                "Show all vieos",
-                "Add a video",
-                "Edit a video",
-                "Delete a video",
-                "Search for a video",
+                "Show all projects",
+                "Add a project",
+                "Edit a project",
+                "Delete a project",
+                "Search for a project",
                 "Exit"
             };
             
